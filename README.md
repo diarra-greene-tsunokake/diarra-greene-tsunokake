@@ -6,7 +6,7 @@
 ## 🌐 About Me
 I’m a **Web Engineer** and **Technical Specialist** dedicated to building intuitive and accessible web applications for both English and Japanese users. With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I strive to create cross-cultural digital solutions that enhance user engagement and accessibility.
 
-- 🗣️ Native English speaker, learning Japanese along the way
+- 🗣️ Native English speaker, Fluent in Japanese
 - 🎯 Mission: Deliver web apps that bridge cultures and languages
 
 ## 💻 Top Skills
