@@ -1,6 +1,6 @@
 <!-- Animated greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=71A898&width=550&lines=Hi%2C+I%E2%80%99m+Diarra+Greene+Tsunokake!" alt="Animated greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=71A898&width=550&lines=Hi%2C+I%E2%80%99m+Diarra+Greene!" alt="Animated greeting" />
 </p>
 
 ## 🌐 About Me
